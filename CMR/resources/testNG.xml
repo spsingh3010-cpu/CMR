@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FreeCMR Automation">
+	<listeners>
+		<listener class-name="com.cmr.ExtentReportListener.reportListener"/>
+	</listeners>
+  <test name="FreeCMR">
+    <classes>
+      <class name="com.cmr.testcases.loginPageTest"/>
+      <class name="com.cmr.testcases.homePageTest"/>
+      <class name="com.cmr.testcases.ContactPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-26T22:44:14 IST" name="Default suite" finished-at="2023-01-26T22:44:55 IST" duration-ms="40496">
+    <groups>
+    </groups>
+    <test started-at="2023-01-26T22:44:14 IST" name="Default test" finished-at="2023-01-26T22:44:55 IST" duration-ms="40496">
+      <class name="com.cmr.testcases.loginPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.cmr.testcases.loginPageTest@61862a7f]" started-at="2023-01-26T22:44:15 IST" name="SetUp" finished-at="2023-01-26T22:44:30 IST" duration-ms="15167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="loginPageTitle()[pri:1, instance:com.cmr.testcases.loginPageTest@61862a7f]" started-at="2023-01-26T22:44:30 IST" name="loginPageTitle" finished-at="2023-01-26T22:44:30 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cmr.testcases.loginPageTest@61862a7f]" started-at="2023-01-26T22:44:30 IST" name="tearDown" finished-at="2023-01-26T22:44:30 IST" duration-ms="548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.cmr.testcases.loginPageTest@61862a7f]" started-at="2023-01-26T22:44:30 IST" name="SetUp" finished-at="2023-01-26T22:44:38 IST" duration-ms="7353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="logo()[pri:2, instance:com.cmr.testcases.loginPageTest@61862a7f]" started-at="2023-01-26T22:44:38 IST" name="logo" finished-at="2023-01-26T22:44:38 IST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cmr.testcases.loginPageTest@61862a7f]" started-at="2023-01-26T22:44:38 IST" name="tearDown" finished-at="2023-01-26T22:44:39 IST" duration-ms="1229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.cmr.testcases.loginPageTest@61862a7f]" started-at="2023-01-26T22:44:39 IST" name="SetUp" finished-at="2023-01-26T22:44:48 IST" duration-ms="8511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Validatelogin()[pri:3, instance:com.cmr.testcases.loginPageTest@61862a7f]" started-at="2023-01-26T22:44:48 IST" name="Validatelogin" finished-at="2023-01-26T22:44:54 IST" duration-ms="6838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validatelogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cmr.testcases.loginPageTest@61862a7f]" started-at="2023-01-26T22:44:54 IST" name="tearDown" finished-at="2023-01-26T22:44:55 IST" duration-ms="518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cmr.testcases.loginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
